@@ -1,12 +1,12 @@
 <div id="page-title">
     <a class="btn btn-primary btn-labeled fa fa-plus margined pull-right" href="<?php echo site_url("site/createweek"); ?>">Create</a>
-    <h1 class="page-header text-overflow">week Details </h1>
+    <h1 class="page-header text-overflow">Week Details </h1>
 </div>
 <div id="page-content">
     <div class="row">
         <div class="col-lg-12">
             <div class="panel drawchintantable">
-                <?php $this->chintantable->createsearch("week List");?>
+                <?php $this->chintantable->createsearch("Week List");?>
                 <div class="fixed-table-container">
                     <div class="fixed-table-body">
                         <table class="table table-hover" id="" cellpadding="0" cellspacing="0">
@@ -14,6 +14,7 @@
                                 <tr>
                                     <th data-field="id">ID</th>
                                     <th data-field="name">Name</th>
+                                    <th data-field="action">Action</th>
                                 </tr>
                             </thead>
                             <tbody>

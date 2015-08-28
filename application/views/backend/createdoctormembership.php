@@ -1,6 +1,6 @@
 <div id="page-title">
 <!--    <a href="<?php echo site_url("site/viewdoctormembership"); ?>" class="btn btn-primary btn-labeled fa fa-arrow-left margined pull-right">Back</a>-->
-    <h1 class="page-header text-overflow">doctormembership Details </h1>
+    <h1 class="page-header text-overflow">Doctormembership Details </h1>
 </div>
 <div id="page-content">
     <div class="row">
@@ -8,7 +8,7 @@
             <section class="panel">
                 <div class="panel-heading">
                     <h3 class="panel-title">
-Create doctormembership </h3>
+Create Doctormembership </h3>
                 </div>
                 <div class="panel-body">
                     <form class='form-horizontal tasi-form' method='post' action='<?php echo site_url("site/createdoctormembershipsubmit");?>' enctype='multipart/form-data'>

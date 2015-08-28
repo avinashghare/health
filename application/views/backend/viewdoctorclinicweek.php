@@ -1,12 +1,12 @@
 <div id="page-title">
     <a class="btn btn-primary btn-labeled fa fa-plus margined pull-right" href="<?php echo site_url("site/createdoctorclinicweek"); ?>">Create</a>
-    <h1 class="page-header text-overflow">doctorclinicweek Details </h1>
+    <h1 class="page-header text-overflow">Doctorclinicweek Details </h1>
 </div>
 <div id="page-content">
     <div class="row">
         <div class="col-lg-12">
             <div class="panel drawchintantable">
-                <?php $this->chintantable->createsearch("doctorclinicweek List");?>
+                <?php $this->chintantable->createsearch("Doctorclinicweek List");?>
                 <div class="fixed-table-container">
                     <div class="fixed-table-body">
                         <table class="table table-hover" id="" cellpadding="0" cellspacing="0">

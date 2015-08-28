@@ -1,6 +1,6 @@
 <section class="panel">
     <header class="panel-heading">
-        <h3 class="panel-title">labfacility Details </h3>
+        <h3 class="panel-title">Labfacility Details </h3>
     </header>
     <div class="panel-body">
         <form class='form-horizontal tasi-form' method='post' action='<?php echo site_url("site/editlabfacilitysubmit");?>' enctype='multipart/form-data'>

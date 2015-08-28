@@ -1,6 +1,6 @@
 <section class="panel">
 <header class="panel-heading">
-<h3 class="panel-title">labweek Details </h3>
+<h3 class="panel-title">Labweek Details </h3>
 </header>
 <div class="panel-body">
 <form class='form-horizontal tasi-form' method='post' action='<?php echo site_url("site/editlabweeksubmit");?>' enctype= 'multipart/form-data'>

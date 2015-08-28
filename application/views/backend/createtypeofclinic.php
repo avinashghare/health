@@ -1,6 +1,6 @@
 <div id="page-title">
 <a href="<?php echo site_url("site/viewtypeofclinic"); ?>" class="btn btn-primary btn-labeled fa fa-arrow-left margined pull-right">Back</a>
-<h1 class="page-header text-overflow">typeofclinic Details </h1>
+<h1 class="page-header text-overflow">Typeofclinic Details </h1>
 </div>
 <div id="page-content">
 <div class="row">
@@ -8,7 +8,7 @@
 <section class="panel">
 <div class="panel-heading">
 <h3 class="panel-title">
-Create typeofclinic </h3>
+Create Typeofclinic </h3>
 </div>
 <div class="panel-body">
 <form class='form-horizontal tasi-form' method='post' action='<?php echo site_url("site/createtypeofclinicsubmit");?>' enctype= 'multipart/form-data'>

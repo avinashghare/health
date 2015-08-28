@@ -1,6 +1,6 @@
 <section class="panel">
 <header class="panel-heading">
-<h3 class="panel-title">typeofdoctor Details </h3>
+<h3 class="panel-title">Typeofdoctor Details </h3>
 </header>
 <div class="panel-body">
 <form class='form-horizontal tasi-form' method='post' action='<?php echo site_url("site/edittypeofdoctorsubmit");?>' enctype= 'multipart/form-data'>
